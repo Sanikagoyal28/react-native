@@ -1,0 +1,10 @@
+1. TAILWIND :
+
+npm i tailwindcss
+npx tailwindcss init
+follow https://www.nativewind.dev/quick-starts/expo
+
+2. ICONS :
+
+npm i @expo/vector-icons
+filter Ionicons
